@@ -1,0 +1,24 @@
+{
+	"static": {
+		"style": {
+			"position": "static"
+		}
+	},
+	"hidden": {
+		"style": {
+			"display": "none"
+		}
+	},
+	"text-blue-600": {
+		"style": {
+			"--tw-text-opacity": 1,
+			"color": "rgb(37 99 235 / var(--tw-text-opacity))"
+		}
+	},
+	"text-red-600": {
+		"style": {
+			"--tw-text-opacity": 1,
+			"color": "rgb(220 38 38 / var(--tw-text-opacity))"
+		}
+	}
+}
